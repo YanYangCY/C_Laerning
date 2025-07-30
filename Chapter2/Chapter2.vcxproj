@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="GongYueShuMax.c" />
+    <ClCompile Include="Chapter216.c" />
+    <ClCompile Include="Chapter218.c" />
+    <ClCompile Include="Chapter219.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
