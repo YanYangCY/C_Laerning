@@ -1,10 +1,10 @@
-#include<stdio.h>	// Ô¤±àÒë¿â
+ï»¿#include<stdio.h>	// é¢„ç¼–è¯‘åº“
 
-int main()	//Ö÷º¯Êı
+int main()	//ä¸»å‡½æ•°
 {
 	int max(int x, int y, int z);
 	int a, b, c, d;
-	printf("ÊäÈëÈı¸öÕûÊı(ÒÔ¿Õ¸ñ¼ü·Ö¸ô)£º");
+	printf("è¾“å…¥ä¸‰ä¸ªæ•´æ•°(ä»¥ç©ºæ ¼é”®åˆ†éš”)ï¼š");
 	scanf_s("%d %d %d", &a, &b, &c);
 	d = max(a, b, c);
 	printf("max=%d\n", d);
@@ -12,8 +12,8 @@ int main()	//Ö÷º¯Êı
 }
 
 /// <summary>
-/// max×Ô½¨º¯Êı
-/// ¹¦ÄÜ£ºÇóÊäÈëÊıµ±ÖĞ×î´óµÄÊı²¢·µ»Ø
+/// maxè‡ªå»ºå‡½æ•°
+/// åŠŸèƒ½ï¼šæ±‚è¾“å…¥æ•°å½“ä¸­æœ€å¤§çš„æ•°å¹¶è¿”å›
 /// </summary>
 /// <returns></returns>
 int max(int x, int y, int z)

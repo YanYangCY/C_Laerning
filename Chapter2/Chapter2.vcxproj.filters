@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
+    <ClCompile Include="Chapter219.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter216.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter218.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
