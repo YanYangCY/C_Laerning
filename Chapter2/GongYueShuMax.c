@@ -12,9 +12,7 @@ int main()
 }
 int max(int a, int b)
 {
-	int y = b;
-	b = a % b;
-	a = y;
-	return a;
+	int y;
+	while(b)
 
 }
