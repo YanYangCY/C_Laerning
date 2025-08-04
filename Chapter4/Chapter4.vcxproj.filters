@@ -27,5 +27,11 @@
     <ClCompile Include="Example4_5.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="example4_7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
