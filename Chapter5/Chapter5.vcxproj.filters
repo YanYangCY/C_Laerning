@@ -18,5 +18,20 @@
     <ClCompile Include="Demo.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Example5_2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Example5_3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Example5_4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Example5_5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Example5_6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
