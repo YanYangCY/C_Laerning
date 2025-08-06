@@ -8,7 +8,8 @@
 //		printf("please enter amount:");
 //		scanf_s("%f", &amount);
 //		total = total + amount;
-//		if (total > t)break;
+//		if (total >= t)
+//			break;
 //	}
 //	aver = total / i;
 //	printf("num=%d\n naver=%10.2f\n", i, aver);

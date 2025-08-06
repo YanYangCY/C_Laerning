@@ -7,7 +7,7 @@
 //	while (i <= 10)
 //	{
 //		t = t + i;
-//		t++;
+//		i++;
 //	}
 //	printf("t=%d\n", t);
 //	return 0;
