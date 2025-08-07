@@ -133,6 +133,7 @@
     <ClCompile Include="Example5_4.c" />
     <ClCompile Include="Example5_5.c" />
     <ClCompile Include="Example5_6.c" />
+    <ClCompile Include="Exercise.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
