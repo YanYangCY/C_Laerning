@@ -24,6 +24,7 @@
     <ProjectGuid>{a26c4277-4910-4749-8c7f-b8e7231da688}</ProjectGuid>
     <RootNamespace>Chapter6</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Chapter6</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,6 +128,7 @@
     <ClCompile Include="Example6_2.c" />
     <ClCompile Include="Example6_4.c" />
     <ClCompile Include="Example6_5.c" />
+    <ClCompile Include="ExampleBate.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
